@@ -1,4 +1,4 @@
-# CLAUDE.md - Dự án Bus_Go (Java Backend + Android App - Monorepo)
+# Dự án Bus_Go (Java Backend + Android App - Monorepo)
 
 ## Tổng quan dự án
 
