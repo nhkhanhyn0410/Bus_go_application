@@ -1107,7 +1107,7 @@ cd android-app
 
 ## Lộ trình xây dựng hệ thống (Development Roadmap)
 
-### Phase 1: Foundation & Setup (2-3 tuần)
+### Phase 1: Foundation & Setup
 
 #### Backend Setup
 - [ ] Tạo cấu trúc project Spring Boot
@@ -1140,7 +1140,7 @@ cd android-app
 
 ---
 
-### Phase 2: Authentication & User Management (2 tuần)
+### Phase 2: Authentication & User Management
 
 #### Backend
 - [ ] User entity & repository
@@ -1179,7 +1179,7 @@ cd android-app
 
 ---
 
-### Phase 3: Core Business Logic - Trip & Booking (3-4 tuần)
+### Phase 3: Core Business Logic - Trip & Booking
 
 #### Backend Entities & Repositories
 - [ ] BusOperator entity & repository
@@ -1230,7 +1230,7 @@ cd android-app
 
 ---
 
-### Phase 4: Payment Integration (2 tuần)
+### Phase 4: Payment Integration
 
 #### Backend
 - [ ] Payment entity & repository
@@ -1266,7 +1266,7 @@ cd android-app
 
 ---
 
-### Phase 5: Real-time Tracking & Notifications (2 tuần)
+### Phase 5: Real-time Tracking & Notifications
 
 #### Backend
 - [ ] WebSocket configuration
@@ -1302,7 +1302,7 @@ cd android-app
 
 ---
 
-### Phase 6: Promotions & Loyalty Program (2 tuần)
+### Phase 6: Promotions & Loyalty Program
 
 #### Backend
 - [ ] Promotion entity & repository
@@ -1332,7 +1332,7 @@ cd android-app
 
 ---
 
-### Phase 7: Reviews & Support (1-2 tuần)
+### Phase 7: Reviews & Support
 
 #### Backend
 - [ ] Review entity & repository
@@ -1358,7 +1358,7 @@ cd android-app
 
 ---
 
-### Phase 8: Driver App Development (2-3 tuần)
+### Phase 8: Driver App Development 
 
 #### Backend APIs for Driver
 - [ ] Driver entity & repository
@@ -1402,7 +1402,7 @@ cd android-app
 
 ---
 
-### Phase 9: Web Dashboard (Operator & Admin) (3-4 tuần)
+### Phase 9: Web Dashboard (Operator & Admin) 
 
 #### Backend APIs for Dashboard
 - [ ] Operator management APIs
@@ -1460,7 +1460,7 @@ cd android-app
 
 ---
 
-### Phase 10: Testing, Optimization & Launch Prep (2-3 tuần)
+### Phase 10: Testing, Optimization & Launch Prep 
 
 #### Testing
 - [ ] Comprehensive unit tests (Backend)
@@ -1541,32 +1541,6 @@ cd android-app
 - Stable production system
 - Continuous improvement based on metrics
 - Growing user base
-
----
-
-## Ước tính thời gian tổng thể
-
-| Phase | Duration | Team Size | Priority |
-|-------|----------|-----------|----------|
-| Phase 1: Foundation | 2-3 tuần | 2-3 devs |  |
-| Phase 2: Authentication | 2 tuần | 2 devs |  |
-| Phase 3: Core Business Logic | 3-4 tuần | 3-4 devs |  |
-| Phase 4: Payment | 2 tuần | 2 devs |  |
-| Phase 5: Real-time & Notifications | 2 tuần | 2 devs |  |
-| Phase 6: Promotions & Loyalty | 2 tuần | 1-2 devs |  |
-| Phase 7: Reviews & Support | 1-2 tuần | 1-2 devs |  |
-| **CUSTOMER APP MVP** | **16-20 tuần** | | **DONE** |
-| Phase 8: Driver App | 2-3 tuần | 2 devs |  |
-| Phase 9: Web Dashboard | 3-4 tuần | 2-3 devs |  |
-| Phase 10: Testing & Launch Prep | 2-3 tuần | Full team |  |
-| **TOTAL** | **23-30 tuần** | **~6-7 months** | |
-
-**Lưu ý:** Thời gian có thể thay đổi tùy theo:
-- Kích thước team
-- Kinh nghiệm của team
-- Độ phức tạp thực tế
-- Thay đổi requirements
-- Issues không lường trước
 
 ---
 
