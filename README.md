@@ -505,8 +505,8 @@ Bus_go_app_java/                           # Root project
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/Bus_go_app_java.git
-cd Bus_go_app_java
+git https://github.com/nhkhanhyn0410/Bus_go_application.git
+cd Bus_go_application
 
 # Start database services
 docker-compose up -d mysql redis rabbitmq
