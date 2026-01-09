@@ -744,7 +744,7 @@ cd android-app
 
 ---
 
-## C. Web Dashboard (Operator & Admin) (Ưu tiên 3) 💻
+## C. Web Dashboard (Operator & Admin) (Ưu tiên 3) 
 
 ### Operator Dashboard Pages
 
