@@ -1588,7 +1588,7 @@ Storage: Cloudinary/AWS S3
 
 ### Phase 1: Customer App MVP (Phase 1-7) - Ưu tiên cao nhất 
 
-**Must-Have Features (16-20 tuần):**
+**Must-Have Features:**
 1. Authentication (Login/Register/OTP)
 2. Search trips (Filters, sorting)
 3. View trip details
@@ -1612,7 +1612,7 @@ Storage: Cloudinary/AWS S3
 
 ### Phase 2: Driver App (Phase 8) - Ưu tiên thứ hai 
 
-**Core Features (2-3 tuần):**
+**Core Features:**
 1. Driver authentication & verification
 2. View assigned trips
 3. Start/End trip
@@ -1627,7 +1627,7 @@ Storage: Cloudinary/AWS S3
 
 ### Phase 3: Web Dashboard (Phase 9) - Ưu tiên thứ ba 
 
-**Operator Features (3-4 tuần):**
+**Operator Features:**
 1. Manage trips (CRUD)
 2. Manage buses & routes
 3. Manage drivers
